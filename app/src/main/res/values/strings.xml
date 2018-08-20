@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MySubwayTracker</string>
+    <string name="app_title">MBTA Tracker App</string>
+    <string name="current_time">Current Time:&#160;</string><!-- &#160; is an unbreakable whitespace -->
+    <string name="next_forest_default">Next Train to Forest Hills: </string>
+    <string name="second_forest_default">2nd Train to Forest Hills: </string>
+    <string name="next_oak_default">Next Train to Oak Grove: </string>
+    <string name="second_oak_default">2nd Train to Oak Grove: </string>
+    <string name="copyright">Copyright 2018 John Diggins</string>
+
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_exit">Exit</string>
+
+
+</resources>
